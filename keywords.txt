@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map para LCDAcentos
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LCDAcentos	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+print	KEYWORD2
+println	KEYWORD2
+setCursor	KEYWORD2
+getCursor	KEYWORD2
+reservarSlot	KEYWORD2
+liberarSlot	KEYWORD2
+liberarTodosLosSlots	KEYWORD2
+isSlotReservado	KEYWORD2
+clear	KEYWORD2
+home	KEYWORD2
+reiniciarSistema	KEYWORD2
+lcd	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MAX_CARACTERES_ESPECIALES	LITERAL1
+TOTAL_SLOTS_LCD	LITERAL1
